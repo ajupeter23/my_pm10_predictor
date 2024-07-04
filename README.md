@@ -14,7 +14,7 @@ pip install /path/to/your_package.whl
 3. Importing the package:
 from my_pm10_predictor import data_loader, model_loader, predictor, visualizer
 
-4. Load data using your package:
+4. Load data using your package (use the preprocessed data "Penrose_Data_TopFeatures_R1.csv"):
 df = data_loader.load_data('path/to/your/data.csv')
 
 5. Load models using your package:
