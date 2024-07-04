@@ -1,5 +1,5 @@
 # PM10_Prediction_Hourly
-This package predicts PM10 values hourly using various machine learning models like XGBoost, Random Forest, SVM, GRU, and LSTM.
+This package predicts PM10 values hourly using machine-learning models like XGBoost, Random Forest, SVM, GRU, and LSTM.
 
 
 # Installation for Users
@@ -11,7 +11,7 @@ pip install /path/to/your_package.whl
 
 # Users can import the package into their Python enviornemnt:
 
-3. Importing the package
+3. Importing the package:
 from my_pm10_predictor import data_loader, model_loader, predictor, visualizer
 
 4. Load data using your package:
